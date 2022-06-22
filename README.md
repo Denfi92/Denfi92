@@ -31,10 +31,12 @@
 
 ### Projects:
 
-[![](https://img.shields.io/badge/fancy_weather-f59e0b?style=for-the-badge)](https://vigitory-fancy-weather-react.netlify.app)
-[![](https://img.shields.io/badge/virtual_keyboard-58667e?style=for-the-badge)](https://vigitory-virtual-keyboard.netlify.app)
-[![](https://img.shields.io/badge/movie_app-f5f5f5?style=for-the-badge)](https://vigitory-movie-app.netlify.app)
-[![](https://img.shields.io/badge/news_portal-37383c?style=for-the-badge)](https://vigitory-news-portal.netlify.app)
-[![](https://img.shields.io/badge/momentum-ff5252?style=for-the-badge)](https://vigitory-momentum.netlify.app)
-[![](https://img.shields.io/badge/museum-9d8665?style=for-the-badge)](https://rolling-scopes-school.github.io/vigitory-JSFE2021Q3/museum-dom)
-[![](https://img.shields.io/badge/clock-00bfff?style=for-the-badge)](https://vigitory.github.io/clock)
+[![](https://img.shields.io/badge/Battleship-58667e?style=for-the-badge)](https://denfi92.github.io/Battleship/battleship/battleship.html)
+[![](https://img.shields.io/badge/JS30-f5f5f5?style=for-the-badge)](https://github.com/Denfi92/JS30)
+[![](https://img.shields.io/badge/Old-CV-37383c?style=for-the-badge)](https://denfi92.github.io/rsschool-cv-old-/)
+[![](https://img.shields.io/badge/Museum-00bfff?style=for-the-badge)](https://denfi92.github.io/Museum/)
+[![](https://img.shields.io/badge/Momentum-00bfff?style=for-the-badge)](https://denfi92.github.io/Momentum/)
+[![](https://img.shields.io/badge/Art-quiz-00bfff?style=for-the-badge)](https://github.com/Denfi92/Art-Quiz)
+[![](https://img.shields.io/badge/Shelter-ff5252?style=for-the-badge)](https://denfi92.github.io/Shelter/shelter/pages/main/)
+[![](https://img.shields.io/badge/Virtual-keybopard-9d8665?style=for-the-badge)](https://denfi92.github.io/Virtual-keyboard/Virtual-keyboard/)
+[![](https://img.shields.io/badge/Home-finance-00bfff?style=for-the-badge)](https://github.com/Denfi92/Home-finance)
