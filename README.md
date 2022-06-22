@@ -14,7 +14,7 @@
 ### Tools:
 
 <p align="left">
-<a href="http://htmlbook.ru/html5" traget-"blank"></a><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/html-5.svg" alt="html5" height="40" width="40" /></a>
+<a href="http://htmlbook.ru/html5" traget-"blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/html-5.svg" alt="html5" height="40" width="40" /></a>
 <a href="http://htmlbook.ru/css3" traget-"blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/css3.svg" alt="css3" height="40" width="40" /></a>
 <a href="https://sass-scss.ru/" traget-"blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/sass.svg" alt="sass" height="40" width="40" /></a>
 <a href="https://getbootstrap.com/" traget-"blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/bootstrap.svg" alt="bootstrap" height="40" width="40" /></a>
