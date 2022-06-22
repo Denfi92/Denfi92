@@ -8,8 +8,8 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://t.me/Denfi69" target="blank"><img align="center" src="https://raw.githubusercontent.com/denfi92/denfi92/icons/telegram.svg" alt="denfi69" height="40" width="40" /></a>
-<a href="https://vk.com/id9517006" target="blank"><img align="center" src="ttps://raw.githubusercontent.com/denfi92/denfi92/icons/telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/Denfi69" target="blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/bootstrap.svg" alt="denfi69" height="40" width="40" /></a>
+<a href="https://vk.com/id9517006" target="blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/bootstrap.svg" alt="daniilshat" height="40" width="40" /></a>
 
 ### Tools:
 
