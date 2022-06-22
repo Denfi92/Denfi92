@@ -13,7 +13,7 @@
 
 ### Tools:
 
-<p align="left">  
+<p align="left">
 <a href="http://htmlbook.ru/html5" traget-"blank"></a><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/html-5.svg" alt="html5" height="40" width="40" /></a>
 <a href="http://htmlbook.ru/css3" traget-"blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/css3.svg" alt="css3" height="40" width="40" /></a>
 <a href="https://sass-scss.ru/" traget-"blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/sass.svg" alt="sass" height="40" width="40" /></a>
@@ -31,12 +31,10 @@
 
 ### Projects:
 
-<p align="left">
 [![](https://img.shields.io/badge/Battleship-58667e?style=for-the-badge)](https://denfi92.github.io/Battleship/battleship/battleship.html)
+[![](https://img.shields.io/badge/JS30-f5f5f5?style=for-the-badge)](https://github.com/Denfi92/JS30)
 [![](https://img.shields.io/badge/Old-CV-37383c?style=for-the-badge)](https://denfi92.github.io/rsschool-cv-old-/)
 [![](https://img.shields.io/badge/Museum-00bfff?style=for-the-badge)](https://denfi92.github.io/Museum/)
-[![](https://img.shields.io/badge/JS30-f5f5f5?style=for-the-badge)](https://github.com/Denfi92/JS30)
-</p>
 [![](https://img.shields.io/badge/Art-quiz-00bfff?style=for-the-badge)](https://github.com/Denfi92/Art-Quiz)
 [![](https://img.shields.io/badge/Shelter-ff5252?style=for-the-badge)](https://denfi92.github.io/Shelter/shelter/pages/main/)
 [![](https://img.shields.io/badge/Momentum-00bfff?style=for-the-badge)](https://denfi92.github.io/Momentum/)
