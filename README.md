@@ -17,12 +17,11 @@
 <p align="left">  
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/html-5.svg" alt="html5" height="40" width="40" />
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/css3.svg" alt="css3" height="40" width="40" />
+<img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/sass.svg" alt="sass" height="40" width="40" />
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/bootstrap.svg" alt="bootstrap" height="40" width="40" />
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/figma.svg" alt="figma" height="40" width="40" />
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/photoshop.svg" alt="photoshop" height="40" width="40" />
-<img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/photoshop-2.svg" alt="photoshop-2" height="40" width="40" />
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/github.svg" alt="github" height="40" width="40" />
-<img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/github-2.svg" alt="github-2" height="40" width="40" />
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/javascript.svg" alt="javascript" height="40" width="40" />
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/webpack.svg" alt="webpack" height="40" width="40" />
 <img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/vue.svg" alt="vue3" height="40" width="40" />
