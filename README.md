@@ -28,3 +28,13 @@
 <a href="https://webpack.js.org/" traget-"blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/webpack.svg" alt="webpack" height="40" width="40" /></a>
 <a href="https://vuejs.org/" traget-"blank"><img align="center" src="https://github.com/Denfi92/Denfi92/blob/main/icons/vue.svg" alt="vue3" height="40" width="40" /></a>
 </p>
+
+### Projects:
+
+[![](https://img.shields.io/badge/fancy_weather-f59e0b?style=for-the-badge)](https://vigitory-fancy-weather-react.netlify.app)
+[![](https://img.shields.io/badge/virtual_keyboard-58667e?style=for-the-badge)](https://vigitory-virtual-keyboard.netlify.app)
+[![](https://img.shields.io/badge/movie_app-f5f5f5?style=for-the-badge)](https://vigitory-movie-app.netlify.app)
+[![](https://img.shields.io/badge/news_portal-37383c?style=for-the-badge)](https://vigitory-news-portal.netlify.app)
+[![](https://img.shields.io/badge/momentum-ff5252?style=for-the-badge)](https://vigitory-momentum.netlify.app)
+[![](https://img.shields.io/badge/museum-9d8665?style=for-the-badge)](https://rolling-scopes-school.github.io/vigitory-JSFE2021Q3/museum-dom)
+[![](https://img.shields.io/badge/clock-00bfff?style=for-the-badge)](https://vigitory.github.io/clock)
