@@ -31,12 +31,12 @@
 
 ### Projects:
 
-[![](https://img.shields.io/badge/Battleship-58667e?style=for-the-badge)](https://denfi92.github.io/Battleship/battleship/battleship.html)
-[![](https://img.shields.io/badge/JS30-f5f5f5?style=for-the-badge)](https://github.com/Denfi92/JS30)
-[![](https://img.shields.io/badge/Old-CV-37383c?style=for-the-badge)](https://denfi92.github.io/rsschool-cv-old-/)
-[![](https://img.shields.io/badge/Museum-00bfff?style=for-the-badge)](https://denfi92.github.io/Museum/)
-[![](https://img.shields.io/badge/Art-quiz-00bfff?style=for-the-badge)](https://github.com/Denfi92/Art-Quiz)
-[![](https://img.shields.io/badge/Shelter-ff5252?style=for-the-badge)](https://denfi92.github.io/Shelter/shelter/pages/main/)
-[![](https://img.shields.io/badge/Momentum-00bfff?style=for-the-badge)](https://denfi92.github.io/Momentum/)
-[![](https://img.shields.io/badge/Virtual-keybopard-9d8665?style=for-the-badge)](https://denfi92.github.io/Virtual-keyboard/Virtual-keyboard/)
-[![](https://img.shields.io/badge/Home-finance-00bfff?style=for-the-badge)](https://github.com/Denfi92/Home-finance)
+[![](https://img.shields.io/badge/-Battleship-blue)](https://denfi92.github.io/Battleship/battleship/battleship.html)
+[![](https://img.shields.io/badge/-JS30-lightgrey)](https://github.com/Denfi92/JS30)
+[![](https://img.shields.io/badge/-Old--cv-green)](https://denfi92.github.io/rsschool-cv-old-/)
+[![](https://img.shields.io/badge/-Museum-red)](https://denfi92.github.io/Museum/)
+[![](https://img.shields.io/badge/-Art--quiz-yellowgreen)](https://github.com/Denfi92/Art-Quiz)
+[![](https://img.shields.io/badge/-Shelter-orange)](https://denfi92.github.io/Shelter/shelter/pages/main/)
+[![](https://img.shields.io/badge/-Momentum-brightgreen)](https://denfi92.github.io/Momentum/)
+[![](https://img.shields.io/badge/-VIrtual--keyboard-yellow)](https://denfi92.github.io/Virtual-keyboard/Virtual-keyboard/)
+[![](https://img.shields.io/badge/-Home--finance-brightgreen](https://github.com/Denfi92/Home-finance)
