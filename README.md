@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue3, JS, TS**
 
-- 🌍 I speak Russian (native), English (B1)
+- 🌍 I speak Russian (native), English (A2+)
 
 ### Connect with me:
 
