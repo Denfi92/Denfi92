@@ -39,5 +39,5 @@
 [![](https://img.shields.io/badge/-Shelter-blue)](https://denfi92.github.io/Shelter/shelter/pages/main/)
 [![](https://img.shields.io/badge/-Momentum-blue)](https://denfi92.github.io/Momentum/)
 [![](https://img.shields.io/badge/-Virtual--keyboard-blue)](https://denfi92.github.io/Virtual-keyboard/Virtual-keyboard/)
-[![](https://img.shields.io/badge/-Home--finance-green)](https://vue-course-crm-vm.web.app/)
-[![](https://img.shields.io/badge/-Online--bank-green)](https://github.com/Denfi92/Online-bank)
+[![](https://img.shields.io/badge/-Home--finance-brightgreen)](https://vue-course-crm-vm.web.app/)
+[![](https://img.shields.io/badge/-Online--bank-brightgreen)](https://github.com/Denfi92/Online-bank)
