@@ -35,7 +35,7 @@
 [![](https://img.shields.io/badge/-JS30-red)](https://github.com/Denfi92/JS30)
 [![](https://img.shields.io/badge/-CV-blue)](https://denfi92.github.io/rsschool-cv/)
 [![](https://img.shields.io/badge/-Museum-blue)](https://denfi92.github.io/Museum/)
-[![](https://img.shields.io/badge/-Art--quiz-red)](https://denfi92.github.io/art-quiz/)
+[![](https://img.shields.io/badge/-Art--quiz-blue)](https://denfi92.github.io/art-quiz/)
 [![](https://img.shields.io/badge/-Shelter-blue)](https://denfi92.github.io/Shelter/shelter/pages/main/)
 [![](https://img.shields.io/badge/-Momentum-blue)](https://denfi92.github.io/Momentum/)
 [![](https://img.shields.io/badge/-Virtual--keyboard-blue)](https://denfi92.github.io/Virtual-keyboard/Virtual-keyboard/)
