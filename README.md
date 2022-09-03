@@ -29,7 +29,7 @@
 </p>
 
 ### Projects:
-
+<p align="left:>JS
 [![](https://img.shields.io/badge/-Battleship-yellow)](https://denfi92.github.io/Battleship/battleship/battleship.html)
 [![](https://img.shields.io/badge/-JS30-yellow)](https://github.com/Denfi92/JS30)
 [![](https://img.shields.io/badge/-CV-yellow)](https://denfi92.github.io/CV/)
@@ -38,6 +38,7 @@
 [![](https://img.shields.io/badge/-Shelter-yellow)](https://denfi92.github.io/Shelter/shelter/pages/main/)
 [![](https://img.shields.io/badge/-Momentum-yellow)](https://denfi92.github.io/Momentum/)
 [![](https://img.shields.io/badge/-Virtual--keyboard-yellow)](https://denfi92.github.io/Virtual-keyboard/Virtual-keyboard/)
+</p>
 [![](https://img.shields.io/badge/-Home--finance-brightgreen)](https://vue-course-crm-vm.web.app/)
 [![](https://img.shields.io/badge/-Online--bank-brightgreen)](https://github.com/Denfi92/Online-bank)
 [![](https://img.shields.io/badge/-Blind--typing-brightgreen)](https://denfi92-blind-typing.netlify.app/)
