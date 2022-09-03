@@ -41,3 +41,4 @@
 [![](https://img.shields.io/badge/-Home--finance-brightgreen)](https://vue-course-crm-vm.web.app/)
 [![](https://img.shields.io/badge/-Online--bank-brightgreen)](https://github.com/Denfi92/Online-bank)
 [![](https://img.shields.io/badge/-Blind--typing-brightgreen)](https://denfi92-blind-typing.netlify.app/)
+[![](https://img.shields.io/badge/-Blind--typing-blue)](https://denfi92-react-app.netlify.app/)
