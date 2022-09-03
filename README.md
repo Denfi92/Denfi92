@@ -29,7 +29,7 @@
 </p>
 
 ### Projects:
-<p align="left:>JS
+<p align="left">JS
 [![](https://img.shields.io/badge/-Battleship-yellow)](https://denfi92.github.io/Battleship/battleship/battleship.html)
 [![](https://img.shields.io/badge/-JS30-yellow)](https://github.com/Denfi92/JS30)
 [![](https://img.shields.io/badge/-CV-yellow)](https://denfi92.github.io/CV/)
