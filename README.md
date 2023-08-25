@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Daniil<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **Vue, React, TS**
+- 🌱 I’m currently learning **React, TS**
 
 - 🌍 I speak Russian (native), English (A2+)
 
